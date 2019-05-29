@@ -1,0 +1,13 @@
+{
+  "name": "teedmakerphp/plugins",
+  "description": "A manager for teedmakerphp plugins",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tadeu Barbosa",
+      "email": "tadeufbarbosa@gmail.com"
+    }
+  ],
+  "require": {}
+}
